@@ -1,3 +1,3 @@
 # open-source-contribution-test
 
-Satya
+Hari Satya Srikanth
